@@ -1,3 +1,4 @@
+![logo](https://github.com/tejaspatil1936/tejaspatil1936/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Tejas Patil</h1>
 <h3 align="center">Enthusiastic Computer Engineering Student from India</h3>
